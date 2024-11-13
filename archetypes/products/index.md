@@ -19,5 +19,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nibh nisl, vulput
 ## Size
 
 | Size (inches)     | Bust     | Waist |	Hip  |	Length |
-| :---------------- | :------: | ----: | ----: | -------:|
-|XL 	              | 16.0 	   | 14.0  | 10.0  | 11.0    | 
+| :---------------- | :------: | ----: | ----:   | -------:|
+|XL 	            | 16.0 	   | 14.0  | 10.0    | 11.0    | 
